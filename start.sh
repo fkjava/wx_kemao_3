@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 # 每次总是重启所有程序的脚本
 # 在文件保存在父项目里面，扩展名为.sh
 mvn install
